@@ -6,7 +6,7 @@ Disclaimer: This is a showcase of the Delegate State Machine Code. Most other as
 The code architecture was based the Pluggable AI Unity example (https://www.youtube.com/watch?v=cHUXh5biQMg).  The code has been designed in such a way to allow for any form of AI (follower AI, NPC AI, etc) this example project comes with one fully working Enemy AI to demonstrate its potential. 
 </br>
 
-The included enemy AI has behaviours for the following: </br>
+The included enemy AI has behaviours for the following: </br></br>
 Attack- The enemy can attack the player causing damage with a verity of different attack animations and randomised sound. </br>
 Jump Attack- There is a small percent chance this special attack will be triggered. The enemy will lunge at the player doing damage. </br>
 Hit- Enemy can be hit in various areas with randomised sound and animations. Some areas do more damage than others. A body shot will cause 1 point of damage whereas a shot to the crystal will cause an instant kill and the crystal will be destroyed. </br>
