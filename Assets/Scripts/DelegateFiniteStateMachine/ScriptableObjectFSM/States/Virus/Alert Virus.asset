@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8446ccc68f1fada47a5f3d976bec1c24, type: 3}
+  m_Name: Alert Virus
+  m_EditorClassIdentifier: 
+  notes: Notes about state.
+  actions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: cc66e566e65c36a45afecd8c16f38d93, type: 2}
+    trueState: {fileID: 11400000, guid: 305d129988a1ad74f99541c48ca0088a, type: 2}
+    falseState: {fileID: 11400000, guid: 60e1601a7c2bcef49a9103188bbe8b7b, type: 2}
+  - decision: {fileID: 11400000, guid: 8a1f29efa16b0094a9e5760d51d9e76a, type: 2}
+    trueState: {fileID: 11400000, guid: 282223f5b77ffab47aebe97ae1c59c4f, type: 2}
+    falseState: {fileID: 11400000, guid: 60e1601a7c2bcef49a9103188bbe8b7b, type: 2}
+  sceneGizmoColor: {r: 0.97843254, g: 1, b: 0, a: 1}
+  effectPrefab: {fileID: 0}
+  effectDuration: 2
+  effectSpawnPosition: {fileID: 0}
+  audioClips:
+  - {fileID: 8300000, guid: c7aa727bdf22ad84e83408035b5a2c71, type: 3}
+  loopAudio: 1
