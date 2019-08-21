@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8446ccc68f1fada47a5f3d976bec1c24, type: 3}
+  m_Name: Patrol Virus
+  m_EditorClassIdentifier: 
+  notes: Notes about state.
+  actions:
+  - {fileID: 11400000, guid: 264e0654a4b6bda43a50268f14281b4f, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 8a1f29efa16b0094a9e5760d51d9e76a, type: 2}
+    trueState: {fileID: 11400000, guid: 282223f5b77ffab47aebe97ae1c59c4f, type: 2}
+    falseState: {fileID: 11400000, guid: 60e1601a7c2bcef49a9103188bbe8b7b, type: 2}
+  sceneGizmoColor: {r: 0.11957746, g: 0.8490566, b: 0.02402991, a: 1}
+  effectPrefab: {fileID: 0}
+  effectDuration: 2
+  effectSpawnPosition: {fileID: 0}
+  audioClips: []
+  blockTransitions: 0
+  blockActions: 0
