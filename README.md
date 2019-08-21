@@ -8,7 +8,7 @@ The code architecture was based the Pluggable AI Unity example (https://www.yout
 
 The included enemy AI has behaviours for the following: </br></br>
 Attack- The enemy can attack the player causing damage with a verity of different attack animations and randomised sound. </br></br>
-Jump Attack- There is a small percent chance this special attack will be triggered. The enemy will lunge at the player doing damage. </br</br>
+Jump Attack- There is a small percent chance this special attack will be triggered. The enemy will lunge at the player doing damage. </br></br>
 Hit- Enemy can be hit in various areas with randomised sound and animations. Some areas do more damage than others. A body shot will cause 1 point of damage whereas a shot to the crystal will cause an instant kill and the crystal will be destroyed. </br></br>
 Patrol- When the enemy cannot find the player they will run from waypoint to waypoint. </br></br>
 Idle- If the enemy cannot find the player and there are no waypoints, they will just idle in their current spot. </br></br>
