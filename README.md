@@ -28,5 +28,7 @@ From these behaviours alone it is very easy to mix and match to create new forms
 <h2>How to Run</h2>
 Unzip the 'Builds.zip' folder and run the .exe inside.
 
+</br></br></br>
+
 ![](https://github.com/DanielOS96/AI-StateMachine-Example/blob/master/Screenshots/1.png)
 ![](https://github.com/DanielOS96/AI-StateMachine-Example/blob/master/Screenshots/2.png)
