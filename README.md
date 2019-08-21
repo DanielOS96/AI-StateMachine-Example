@@ -4,7 +4,7 @@ Disclaimer: This is a showcase of the Delegate State Machine Code. Most other as
 
 <h1>Enemy State Machine Example.</h1>
 The code architecture was based the Pluggable AI Unity example (https://www.youtube.com/watch?v=cHUXh5biQMg).  The code has been designed in such a way to allow for any form of AI (follower AI, NPC AI, etc) this example project comes with one fully working Enemy AI to demonstrate its potential. 
-</br></br>
+</br></br></br>
 
 The included enemy AI has behaviours for the following: </br></br>
 Attack- The enemy can attack the player causing damage with a verity of different attack animations and randomised sound. </br></br>
