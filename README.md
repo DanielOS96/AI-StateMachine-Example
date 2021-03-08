@@ -1,8 +1,9 @@
 <i>
-Disclaimer: This is a showcase of the Delegate State Machine Code. Most other assets were taken from the asset store i.e. Enemy Spider model, Standard assets and First Person Controller.
+Disclaimer: This is a showcase of the Delegate State Machine Code. Most other assets were taken from the asset store i.e. Enemy Spider model, Standard assets and First Person Controller. <b>Created 2019</b>.
 </i>
 
 <h1>Enemy State Machine Example.</h1>
+Example Video: https://www.youtube.com/watch?v=A5KSO2FJVWY </br>
 The code architecture was based the Pluggable AI Unity example (https://www.youtube.com/watch?v=cHUXh5biQMg).  The code has been designed in such a way to allow for any form of AI (follower AI, NPC AI, etc) this example project comes with one fully working Enemy AI to demonstrate its potential. 
 </br></br></br>
 
